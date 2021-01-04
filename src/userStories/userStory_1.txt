@@ -1,0 +1,13 @@
+User: 
+  login
+  goto ROI
+  Switch on columns:
+    Domain
+    Profit
+    ROI
+    Spent
+  Switch off columns:
+    every else
+  Sort by Domain
+  click 1st preset
+  click reset

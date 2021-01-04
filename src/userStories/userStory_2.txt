@@ -1,0 +1,11 @@
+user:
+  login
+  ROI
+  switch on:
+    Domain
+    Profit
+    Revenue
+    Spent
+    ROI
+  click 2nd preset
+  click Revenue <= 40

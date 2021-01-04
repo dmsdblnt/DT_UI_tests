@@ -1,0 +1,30 @@
+{
+  "name": "ui_interaction_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codecept.conf.js",
+  "dependencies": {
+    "@codeceptjs/mailslurp-helper": "^1.0.2",
+    "@codeceptjs/ui": "^0.4.2",
+    "chai": "^4.2.0",
+    "codeceptjs": "^3.0.0-beta.3",
+    "codeceptjs-chai": "^2.0.1",
+    "codeceptjs-cmdhelper": "^2.2.1",
+    "codeceptjs-dbhelper": "^1.0.1",
+    "codeceptjs-resources-check": "^0.4.0",
+    "faker": "^4.1.0",
+    "got": "^11.5.2",
+    "lodash": "^4.17.20",
+    "phantomjs": "^2.1.7",
+    "rosie": "^2.0.1"
+  },
+  "devDependencies": {
+    "playwright": "^1.4.2",
+    "puppeteer": "^3.3.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
